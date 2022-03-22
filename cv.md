@@ -34,10 +34,10 @@ MSLU - Bachelor 2017-2022
 
 ----
 
-JS - Beginner
-HTML - Beginner
-CSS - Beginner 
-Git - Beginner 
+* JS - Beginner
+* HTML - Beginner
+* CSS - Beginner 
+* Git - Beginner 
 
 
 ## Foreign languages:
