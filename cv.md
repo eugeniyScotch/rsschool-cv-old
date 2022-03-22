@@ -1,4 +1,6 @@
 
+# Resume 
+
 # Panassjuk Eugene
 
 ## Contact Information
@@ -7,7 +9,7 @@
 
 ----
 
-## About Myself 
+## About Myself
 
 *****
 
@@ -15,4 +17,33 @@ My name is Eugene and I’m a student of Minsk State Linguistic University, wher
 
 *****
 
+## Education 
+
+****
+
+MSLU - Bachelor 2017-2022
+
+#### Extra courses:
+1. Polish for beginners 
+2. Literature courses
+3. Group of Seminars in History 
+
+****
+
+## Skills 
+
+----
+
+JS - Beginner
+HTML - Beginner
+CSS - Beginner 
+Git - Beginner 
+
+
+## Foreign languages:
+* Russian - native
+* Belarusian - native 
+* English - B2
+* German - B2
+* Polish - Beginner 
 
