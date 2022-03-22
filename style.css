@@ -1,0 +1,166 @@
+body {color: rgb(114, 114, 114);
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: rgb(255, 239, 228);
+    
+    }
+    .container {max-width: 80%;
+        margin:auto;
+        padding-top: 30px;
+    }
+    .имя h1 {text-align: center ;color: rgb(94, 79, 79);
+        margin-bottom: 0px;
+        margin-top: 5px;
+    }
+    .имя {margin-bottom: 10px;
+            padding: 10px 40px;
+        }
+    .имя img{padding-right: 10px;}
+    .info {display: flex;
+    } 
+    .info h4 {color: rgb(94, 79, 79);
+    } 
+    .info p {color: rgb(114, 114, 114);
+    }
+    .фото { color: rgb(148, 139, 126); max-height: 250px ;border-radius: 50px; max-width: 250px ;
+        box-shadow: 4px 4px 16px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    a {text-decoration: none;
+    color: rgb(26, 31, 80);
+    }
+    a:hover {text-decoration: underline;
+    opacity: 0.7;
+    }
+        @media (max-width: 800px) {
+            .Education  {display: block;}
+        .info {display: block;text-align:center;}
+        .Education table th{display:block;}
+        .Education table td{display: block;}
+    }
+        .Education {background-color: #fcf3b0;
+            padding: 10px 20px 10px 25px;  
+            margin-bottom: 10px; 
+            border-radius: 15px; 
+            border: 3px solid rgb(196, 196, 196) ;
+            transition: all 1s;
+        }
+        .Education:hover {transform: scale(1.1);}
+        .Education table {
+            border-collapse: collapse;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 20px;
+            border: 2px solid rgb(32, 32, 32);
+            font-size: 0.8rem;
+            }
+            td, th {
+                border: 1px solid rgb(129, 127, 127);
+                padding: 10px 20px;
+            }
+            td {
+                text-align: center;
+            }
+            caption {
+                padding: 10px;
+            }
+    .Abilities { background-color: papayawhip;
+        padding: 10px 20px 10px 25px;  
+        margin-bottom: 10px; 
+        border-radius: 15px; 
+        border: 3px solid rgb(196, 196, 196);
+        transition: all 1s;
+    }
+    .Abilities:hover {transform: scale(1.1);}
+    .Abilities ul {padding-bottom: 10px;}
+    .Experience {background-color: rgb(253, 215, 179);
+        padding: 10px 20px 10px 25px;  
+        margin-bottom: 10px; 
+        border-radius: 15px; 
+        border: 3px solid rgb(196, 196, 196);
+        transition: all 1s;
+    }
+     .Experience:hover {transform: scale(1.1);}
+    .Experience table {border-collapse: separate;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+        border: 2px solid rgb(32, 32, 32);
+        border-radius: 10px;
+        font-size: 0.8rem;
+        }
+        caption {
+            padding: 10px;}
+    .Experience td{
+        border: none;
+        padding: 10px 20px;
+    }        
+    .Experience th {
+        border: none;
+        padding: 10px 20px;
+    }        
+    @media (max-width: 800px) {
+        .Experience  {display: block;}
+        .Experience table {text-align:center;}
+    .Experience table th{display:block;}
+    .Experience table td{display: block;}}
+    .Hobbies { background-color: rgb(253, 194, 179);
+        padding: 10px 20px 10px 25px;  
+    margin-bottom: 100px; 
+    border-radius: 15px; 
+    border: 3px solid rgb(196, 196, 196) ;
+    transition: all 1s;
+    }
+    .Hobbies:hover {transform: scale(1.1);}
+    .Hobbies li{margin-bottom: 10px;} 
+    
+    .boxEducation {position: absolute;
+        top: 500px;
+        left: 0px;
+        width: 40px;
+        height: 40px;
+        background-color: #fcf3b0;
+        border: 2px solid rgb(124, 123, 123);
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-left: none;
+    }
+    .boxAbilities {position: absolute;
+        top: 900px;
+        left: 0px;
+        width: 40px;
+        height: 40px;
+        background-color:papayawhip;
+        border: 2px solid rgb(124, 123, 123);
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-left: none;
+    }
+    .boxExperience {position: absolute;
+        top: 1300px;
+        left: 0px;
+        width: 40px;
+        height: 40px;
+        background-color:rgb(253, 215, 179);
+        border: 2px solid rgb(124, 123, 123);
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-left: none;
+    }
+    .boxHobbies {position: absolute;
+        top: 1550px;
+        left: 0px;
+        width: 40px;
+        height: 40px;
+        background-color:rgb(253, 194, 179);
+        border: 2px solid rgb(124, 123, 123);
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-left: none;
+        transition: all 1s;
+    }
+    
